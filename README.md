@@ -1,4 +1,4 @@
-# SC4002-NLP-Group-Project
+# SC4002-NLP-Group-Project-G31
 
 # Sentiment Classification with Pretrained Embeddings
 
