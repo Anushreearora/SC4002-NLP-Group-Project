@@ -12,7 +12,7 @@ This project performs sentiment classification on the Rotten Tomatoes dataset us
 - **`part0-1_base.ipynb`**: Code for dataset preparation and base embedding setup.
 - **`part0-1_oov.ipynb`**: Implements OOV handling strategies.
 - **`part2_simpleRNN.ipynb`**: Implements a simple RNN model for sentiment classification.
-- **`part3.1_simpleRNN.ipynb`** to **`part3.5_multihead_attn_biGRU.ipynb`**: Various enhancements, including updated embeddings, biLSTM/biGRU, CNN, and custom improvements.
+- **`part3.1_simpleRNN.ipynb`** to **`**part3.5_multihead_attn_biGRU.ipynb**`**: Various enhancements, including updated embeddings, biLSTM/biGRU, CNN, and custom improvements.
 
 ## Requirements
 Install the dependencies using:
